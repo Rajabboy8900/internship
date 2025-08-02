@@ -19,11 +19,6 @@ public class A0043 {
         }
 
 
-
-
-
-
-
         System.out.println(max);
     }
 }
