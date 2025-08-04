@@ -21,23 +21,6 @@ public class A0894{
 //        R1=Double.parseDouble(sa[1]);
 //        System.out.println(Math.round(1000*Math.sqrt(R1*R1-(S/Math.PI)))/1000.0);
 //    }
-//}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
