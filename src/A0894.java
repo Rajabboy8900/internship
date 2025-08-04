@@ -6,7 +6,7 @@ public class A0894{
         String[] line = scanner.nextLine().split(" ");
         double s = scanner.nextDouble();
         double r1 = scanner.nextDouble();
-        System.out.println(Math.sqrt(r1 * r1 - s / Math.PI));
+        System.out.println(Math.sqrt(r1 * r1 - s / Math. PI));
     }
 }
 
@@ -22,6 +22,20 @@ public class A0894{
 //        System.out.println(Math.round(1000*Math.sqrt(R1*R1-(S/Math.PI)))/1000.0);
 //    }
 //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //import java.util.Scanner;
