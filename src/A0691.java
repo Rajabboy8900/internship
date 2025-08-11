@@ -16,6 +16,7 @@ public class A0691 {
                 isValid = false;
             }
 
+
             //birinci belgidagi xarfa ruxsat barilyanmi yo'qmi shuni tekshiramiz
             if (isValid) {
                 char c1 = plate.charAt(0);

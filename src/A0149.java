@@ -17,11 +17,6 @@ public class A0149 {
             if (i != 0){
                 System.out.println(" ");
             }
-
         }
-
-
-
-
     }
 }
